@@ -12,5 +12,5 @@ Also i am trying to make this repository as cureted as possible by separating fi
 
 <hr>
 <h1>Future Plans</h1>
-<p>further i am going to add folders about <ul><li>recusion and backtracking</li><li>searching and sorting Algos</li><li>OOP</li>
+<p>further i am going to add folders about <ul><li>recusion and backtracking</li><li>searching and sorting Algos</li>
 <li>linked list</li><li>stacks and queue</li><li>binary tree</li><li>graphs</li><li>DP</li><li>and other IMP DSA concepts ...</li></ul></p>
