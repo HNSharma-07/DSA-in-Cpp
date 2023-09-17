@@ -78,14 +78,17 @@ class Hero {
 
 int main() {
   
-  //creating object named h1 of Hero type
+  //creating object named h1 of sample type
   sample h1;
+
+  //creating empty object named h2
   empty h2;
   
   cout << "size: " << sizeof(h1) << endl; // 4 byte as per int
   cout << "size: " << sizeof(h2) << endl; // allocate 1 byte for existance
 
   
+  //creating object named Ramesh of Hero type
   Hero ramesh;
   cout << "ramesh :" << endl;
   //access through dot operater (.)
